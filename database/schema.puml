@@ -1,0 +1,32 @@
+@startuml
+
+entity VirtualCard {
+    * number
+    * holder
+    * month
+    * year
+    * cvc
+    * amount
+    status
+}
+
+entity User {
+    * firstname
+    * lastname
+    * email
+    * password
+    * type
+}
+
+entity Company {
+    * name
+    address
+    zipcode
+    city
+    country
+}
+
+VirtualCard }o--|| User
+User }o--|| Company
+
+@enduml

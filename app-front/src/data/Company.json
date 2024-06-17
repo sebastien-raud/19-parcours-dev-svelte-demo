@@ -1,0 +1,96 @@
+[
+	{
+		"address": null,
+		"name": "Apple",
+		"zipcode": null,
+		"Users": [
+			"d09bf662-928c-4d36-8204-aa23b13a9a0d"
+		]
+	},
+	{
+		"address": null,
+		"name": "Microsoft",
+		"zipcode": null,
+		"Users": [
+			"845c4879-ac58-47cf-a41b-52f134c73622",
+			"e3faea90-5dc3-4d49-a5d3-b2db894b86ae",
+			"e484f65e-d9fc-4b13-80a0-452b596d53fe"
+		]
+	},
+	{
+		"address": null,
+		"name": "Google",
+		"zipcode": null,
+		"Users": [
+			"5b9bd2e5-dc8a-4a51-9c41-8aafac43f347"
+		]
+	},
+	{
+		"address": null,
+		"name": "Amazon",
+		"zipcode": null,
+		"Users": [
+			"61be60b1-e620-4d6c-8fe6-c497c475a040",
+			"6f77eeb4-91a2-4a10-bf81-eb8505073942"
+		]
+	},
+	{
+		"address": null,
+		"name": "O'clock",
+		"zipcode": null,
+		"Users": [
+			"57ff7f9e-656f-4765-b0ab-c6c942f936da",
+			"945691b0-26d7-490c-83e7-66b28b5ea323"
+		]
+	},
+	{
+		"address": null,
+		"name": "OpenClassroom",
+		"zipcode": null,
+		"Users": [
+			"1548bacd-506a-4d93-9c98-43c4405cbea1",
+			"5142726c-c940-4557-b73d-0db4290d421f",
+			"557eea39-59b7-4812-bc6b-d681fc2ac3ec"
+		]
+	},
+	{
+		"address": null,
+		"name": "SNCF",
+		"zipcode": null,
+		"Users": []
+	},
+	{
+		"address": null,
+		"name": "Tupperware",
+		"zipcode": null,
+		"Users": [
+			"271c63a1-0bf3-43c9-a659-7da85c8249d8",
+			"b1ca6acb-1f41-467c-8808-ca8e32978870",
+			"d47148ec-e61a-4571-a8be-08532036368f",
+			"d9f69f76-c5b8-4e8e-937b-3656b6d44e0f",
+			"ec211088-631b-44e3-bcb0-b45466e83dbf"
+		]
+	},
+	{
+		"address": null,
+		"name": "Reef",
+		"zipcode": null,
+		"Users": [
+			"2e445190-4b0f-4501-ba56-9ccb26e07a5e",
+			"3575ad32-6f11-4124-89fa-7517a30be955",
+			"aef17f5b-2ce7-4d5a-b987-400c1c3bf616",
+			"d335b27a-3ee7-4a3c-ac65-1637d40f0029"
+		]
+	},
+	{
+		"address": null,
+		"name": "Orange",
+		"zipcode": null,
+		"Users": [
+			"2c21d388-72e1-4310-b5c1-e935d2149c32",
+			"524e49ab-7b9d-42b4-b501-bbddee12c763",
+			"767be33f-a792-4c86-8659-27c5676f4079",
+			"7f0d9c49-5ca3-4c19-99be-b0268eef1f01"
+		]
+	}
+]
